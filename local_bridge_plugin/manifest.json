@@ -1,0 +1,20 @@
+{
+  "name": "local_bridge_plugin",
+  "id": "1627958719997360316",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": [
+    "figma",
+    "dev"
+  ],
+  "capabilities": [
+    "inspect"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "*"
+    ],
+    "reasoning": "This plugin requires WebSocket connection to localhost"
+  }
+}
