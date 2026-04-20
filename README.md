@@ -1,6 +1,6 @@
 # Figma UI MCP
 
-这是一个基于 Model Context Protocol (MCP) 与 WebSocket 构建的底层通信桥梁项目。
+本项目是一个专业的 **Figma 设计稿实时数据桥梁**。它基于 Model Context Protocol (MCP) 标准构建，旨在将 Figma 中的 UI 设计属性（布局、样式、矢量图标等）实时同步给本地 AI 编程助手，实现“所见即所得”的代码自动生成体验。
 
 ## 1. 主要功能
 - **打破沙箱隔离**：成功打通 Figma 设计稿的隔离环境与本地 AI IDE 的双向通信。
